@@ -1,2 +1,5 @@
 # Distribution / packaging
 node_modules/
+
+# Clion IDE configuration
+.idea
